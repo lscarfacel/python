@@ -1,5 +1,3 @@
-
-# Use your code from Project 2 and make it modular. 
 # In addition to the main function, your code must include the following functions:
 # Function 1 - displayTitle
 # A function that displays the title - "Air Conditioning Window Unit Cooling Capacity"
